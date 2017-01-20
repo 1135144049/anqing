@@ -1,0 +1,1 @@
+console.log('安晴好棒')
